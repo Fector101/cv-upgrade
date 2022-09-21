@@ -93,6 +93,7 @@ hr{
 
 .pro {
   text-decoration: underline;
+  margin-right: 0px;
 }
 .top-cloud {
   position: absolute;
