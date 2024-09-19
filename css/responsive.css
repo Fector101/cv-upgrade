@@ -1,4 +1,4 @@
-@media screen and (max-width:800px) {
+@media screen and (max-width:740px) {
     p {
         line-height: 1.7;
         /* color: greenyellow; */
@@ -37,6 +37,8 @@
       }
 }
 
-/* @media screen and (max-width:780px) {
-   
-} */
+@media screen and (max-width:900px) {
+ .contact-message {
+  width: 80%;
+ }
+} 
