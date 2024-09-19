@@ -1,0 +1,36 @@
+@media screen and (max-width:1000px) {
+    p {
+        line-height: 1.6;
+    }
+
+    .os {
+        width: auto;
+        font-size: 16px;
+        /* background-color: green; */
+    }
+
+    .skill-row {
+        width: 80%;
+    }
+
+    .skill-row .computer {
+        margin-right: 50px;
+        border: 1px solid grey;
+    }
+
+    .btn {
+        font-size: 25px;
+    }
+
+}
+
+/* @media screen and (max-width: 400px) {
+    .os{
+        width: 70%;
+        background-color: green;
+    }
+    .skill-row{
+        width: 50%;
+        background-color: red;
+       } 
+} */
