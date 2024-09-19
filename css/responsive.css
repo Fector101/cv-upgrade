@@ -1,23 +1,29 @@
-@media screen and (max-width:1000px) {
+@media screen and (max-width:800px) {
     p {
-        line-height: 1.6;
+        line-height: 1.7;
+        /* color: greenyellow; */
     }
-
+    .mountain{
+        width: 70%;
+        height: 60%;
+    }
     .os {
         width: auto;
-        font-size: 16px;
+        /* font-size: 16px; */
     }
 
     .skill-row {
         width: 80%;
+        /* background-color: red; */
+        /* font-size: 14px; */
     }
-
     .skill-row .computer {
-        margin-right: 50px;
+        /* margin-right: 20px; */
     }
 
     .btn {
-        font-size: 25px;
+        font-size: 13px;
+
     }
     .copyright{
         font-size: 10px;
@@ -26,7 +32,7 @@
 
     .contact-message {
         width: auto;
-        font-size: 12px;
+        /* font-size: 12px; */
         margin: 40px 15px;
       }
 }
