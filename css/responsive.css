@@ -6,7 +6,6 @@
     .os {
         width: auto;
         font-size: 16px;
-        /* background-color: green; */
     }
 
     .skill-row {
@@ -15,22 +14,23 @@
 
     .skill-row .computer {
         margin-right: 50px;
-        border: 1px solid grey;
     }
 
     .btn {
         font-size: 25px;
     }
+    .copyright{
+        font-size: 10px;
+        color: rgb(173, 173, 173);
+    }
 
+    .contact-message {
+        width: auto;
+        font-size: 12px;
+        margin: 40px 15px;
+      }
 }
 
-/* @media screen and (max-width: 400px) {
-    .os{
-        width: 70%;
-        background-color: green;
-    }
-    .skill-row{
-        width: 50%;
-        background-color: red;
-       } 
+/* @media screen and (max-width:780px) {
+   
 } */
