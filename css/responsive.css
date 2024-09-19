@@ -32,13 +32,12 @@
 
     .contact-message {
         width: auto;
-        /* font-size: 12px; */
-        margin: 40px 15px;
+        /* font-size: 12px; /
+        margin: 40px 15px;*/
+        margin: 40px auto; 
       }
 }
 
-@media screen and (max-width:900px) {
- .contact-message {
-  width: 80%;
- }
-} 
+/*@media screen and (max-width:900px) {
+ 
+}*/
