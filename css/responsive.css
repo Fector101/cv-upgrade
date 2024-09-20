@@ -1,7 +1,7 @@
 @media screen and (max-width:700px) {
     p {
         line-height: 1.7;
-        color: green;
+        /*color: green;*/
     }
     .mountain{
         width: 70%;
