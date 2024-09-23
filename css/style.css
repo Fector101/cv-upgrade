@@ -184,7 +184,9 @@ hr {
   color: #FFF;
 
 }
-
+.contact-me{
+width: 50%;
+}
 .contact-message {
   width: 60%;
   margin: 40px auto 60px;
